@@ -1,6 +1,6 @@
 # PyFaaS Model
 
-![image-20221005101344959](https://www.images.wiki/y2ks5458S3rwcreA8luq)
+![image-20221005101344959](https://www.images.wiki/y3AS4vA5c769Z66iA8h1.png)
 
 PyFaaS 是基于 Python 语言的轻量化 Serverless FaaS 平台，核心特点是基于可插拔的模块化设计思想，可以为使用者提供高度自定义的 FaaS 平台能力。通过 PyFaaS，用户可以快速的构建自己的 Serverless FaaS 平台，并根据自己需求调整不同模块的工作策略，以用于轻量化私有 FaaS 平台建设或 Serverless FaaS 相关产品的科学研究。
 
@@ -8,7 +8,7 @@ PyFaaS Model 是 PyFaaS 和 PyFaaS Module Hub 的实现规范，用来规约 PyF
 
 ## 项目特点
 
-![image-20221005090159732](https://www.images.wiki/eqjBD4kE2yf2SyeevuiA)
+![image-20221005090159732](https://www.images.wiki/FdrSbyqslZ9Ac82xcEhx.png)
 
 PyFaaS 项目和核心优势主要包括：
 
@@ -23,7 +23,7 @@ PyFaaS 项目和核心优势主要包括：
 
 PyFaaS 核心架构如下图所示：
 
-![image-20221005091229637](https://www.images.wiki/t3eaAg9t1iu8B1hhDrag)
+![image-20221005091229637](https://www.images.wiki/3u4ry2sAGE3A29xjf2yB.png)
 
 在该架构中，主要包括几个模块：
 - API Gateway：项目整体对外暴露的接入层（API 网关层，将采用 Nginx 作为核心实现方案），无论是控制流还是数据流都将会通过该模块进行接入；
@@ -54,24 +54,24 @@ PyFaaS 核心架构如下图所示：
 
 
 
-![image-20221005091246383](https://www.images.wiki/rhGj4BzkiGw35EhurDGw)
+![image-20221005091246383](https://www.images.wiki/tAgiiDxtg4vc5wzlaydy.png)
 
 
 
-![image-20221003113801914](https://www.images.wiki/ge2he5f2h536Ba16hcFq)
-
-
-
-
-
-![](https://www.images.wiki/Fcvfiux64tCsZ9FddBBA)
+![image-20221003113801914](https://www.images.wiki/k2E3sxe1bcr8A3aZFukb.png)
 
 
 
 
 
-![image-20221003120029537](https://www.images.wiki/4Za5lrbxAdye7GFh3hBe)
+![](https://www.images.wiki/BqztDed3f5Ai6799FDAj.png)
 
 
 
-![image-20221004211445050](https://www.images.wiki/AFFvl43llj1l94eq3uDz)
+
+
+![image-20221003120029537](https://www.images.wiki/klea7swbA7vD2lbBCjqs.png)
+
+
+
+![image-20221004211445050](https://www.images.wiki/BSaCw3w9C4babbrG7CGj.png)
