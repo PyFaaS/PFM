@@ -8,7 +8,7 @@ PyFaaS Model 是 PyFaaS 和 PyFaaS Module Hub 的实现规范，用来规约 PyF
 
 ## 项目特点
 
-![image-20221005090159732](https://www.images.wiki/FdrSbyqslZ9Ac82xcEhx.png)
+![](https://www.images.wiki/FdrSbyqslZ9Ac82xcEhx.png)
 
 PyFaaS 项目和核心优势主要包括：
 
