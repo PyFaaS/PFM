@@ -12,7 +12,7 @@
 
 PyFaaS Model (PFM) 是 PyFaaS 项目与相关生态的模型规范，由 PyFaaS 社区发起编写。
 
-![image-20221006124031428](https://www.images.wiki/shydk1AZ4i39vdtrzfxt.png)
+![](https://www.images.wiki/shydk1AZ4i39vdtrzfxt.png)
 
 如上图所示，该模型文档主要从模型开发者以及 PyFaaS 用户等两个角色的开发流程、使用流程出发，针对 PyFaaS Module 规范，PyFaaS Module Hub 规范以及 PyFaaS 本身的一些架构设计，进行描述与规约。通过该模型文档：
 
