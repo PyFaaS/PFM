@@ -1,6 +1,6 @@
 # PyFaaS Model
 
-![image-20221005101344959](https://www.images.wiki/y3AS4vA5c769Z66iA8h1.png)
+![](https://www.images.wiki/y3AS4vA5c769Z66iA8h1.png)
 
 PyFaaS 是基于 Python 语言的轻量化 Serverless FaaS 平台，核心特点是基于可插拔的模块化设计思想，可以为使用者提供高度自定义的 FaaS 平台能力。通过 PyFaaS，用户可以快速的构建自己的 Serverless FaaS 平台，并根据自己需求调整不同模块的工作策略，以用于轻量化私有 FaaS 平台建设或 Serverless FaaS 相关产品的科学研究。
 
