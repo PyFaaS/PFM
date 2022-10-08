@@ -36,9 +36,9 @@ PyFaaS 核心架构如下图所示：
 
 模型本身由 PyFaaS 项目驱动：
 
-| 模型版本            | 包含内容                                                                                                                                  | 对应 PyFaaS 版本 | 
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [v0.0.1](./zh/0.0.1) | [PyFaaS Framework Model](./zh/0.0.1/PyFaaS Framework Model) <br/>  [PyFaaS Module Model](./zh/0.0.1/PyFaaS Module Model) <br/>  [PyFaaS Module Hub Model](./zh/0.0.1/PyFaaS Module Hub Model) | v0.0.x       |
+| 模型版本            | 包含内容                                                                                                                                                                                          | 对应 PyFaaS 版本 | 
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [v0.0.1](./zh/0.0.1) | [PyFaaS Framework Model](./zh/0.0.1/PyFaaS-Framework-Model) <br/>  [PyFaaS Module Model](./zh/0.0.1/PyFaaS-Module-Model) <br/>  [PyFaaS Module Hub Model](./zh/0.0.1/PyFaaS-Module-Hub-Model) | v0.0.x       |
 
 ## 社区贡献
 
